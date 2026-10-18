@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Blowfish"
+title = "Hunter's DevOps Journal"
 
 [params]
   displayName = "EN"
@@ -14,7 +14,7 @@ title = "Blowfish"
   description = "Hunter's notes on learning DevOps in public."
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
+  [params.author]
     name = "Hunter Morgan"
     # email = "you@example.com"    # add later if you want
     image = "img/hunter.jpg"
