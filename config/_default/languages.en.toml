@@ -11,10 +11,22 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Hunter's notes on learning DevOps in public."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]
+    name = "Hunter Morgan"
+    # email = "you@example.com"    # add later if you want
+    image = "img/hunter.jpg"
+    imageQuality = 96
+    headline = "Building a DevOps career in public."
+    bio = "Former dive instructor and web/SEO professional, now studying DevOps and sharing the journey in public."
+    links = [
+      { github = "https://github.com/yourusername" },
+      { linkedin = "https://linkedin.com/in/yourusername" },
+      { email = "mailto:you@example.com" },
+      # { x-twitter = "https://x.com/yourusername" },
+    ]
 #   name = "Your name here"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
